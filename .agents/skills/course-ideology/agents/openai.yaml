@@ -1,0 +1,4 @@
+interface:
+  display_name: "课程思政备课"
+  short_description: "从各学科教学资料挖掘思政元素，定位融入环节并生成可讲话术与任务"
+  default_prompt: "请用 $course-ideology，根据我的课程资料回答融什么、怎么融、融到哪，优先嵌入原教学并给出可直接使用的一课时方案。"

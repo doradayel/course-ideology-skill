@@ -1,0 +1,19 @@
+# 本机课程资料、来源路径和生成结果
+.local/
+materials/
+outputs/
+.tmp/
+dist/
+
+# 填写后的备课信息应留在.local，根目录副本同样不提交
+/备课信息.md
+
+# 本地运行环境
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
